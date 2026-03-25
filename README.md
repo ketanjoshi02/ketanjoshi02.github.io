@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
@@ -374,16 +373,16 @@
     <div class="section-line"></div>
   </div>
   <div class="card-grid">
-    <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Veg. Cheese Pizza</span></div><span class="card-price">₹100</span></div>
-    <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Cheese Corn Pizza</span></div><span class="card-price">₹120</span></div>
-    <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Italian Pizza</span></div><span class="card-price">₹120</span></div>
-    <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Margarita Pizza</span></div><span class="card-price">₹130</span></div>
+    <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Veg. Cheese Pizza</span></div><span class="card-price">₹140</span></div>
+    <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Cheese Corn Pizza</span></div><span class="card-price">₹140</span></div>
+    <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Italian Pizza</span></div><span class="card-price">₹140</span></div>
+    <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Margarita Pizza</span></div><span class="card-price">₹140</span></div>
   </div>
 </section>
 <div class="band"></div>
 
 <!-- BURGERS -->
-<div id="burgers"></div>
+<!--<div id="burgers"></div>
 <section class="menu-section alt-bg reveal">
   <div class="section-header">
     <span class="section-tag">Fast Food</span>
@@ -398,7 +397,7 @@
     <div class="menu-card"><div><span class="veg-dot"></span><span class="card-name">Cheese Chilli Sandwich</span></div><span class="card-price">₹80</span></div>
   </div>
 </section>
-<div class="band"></div>
+<div class="band"></div>-->
 
 <!-- DRINKS -->
 <div id="drinks"></div>
@@ -438,11 +437,11 @@
       <div class="thali-price-badge">₹150</div>
       <p class="thali-includes"><span data-lang="en">1 Paneer Sabji · 1 Veg Sabji · Dal Fry · Jeera Rice · Papad · Pickles · 1 glass Chhas · 3 Butter Roti</span><span data-lang="hi">1 पनीर सब्जी · 1 वेज सब्जी · दाल फ्राय · जीरा चावल · पापड़ · अचार · 1 गिलास छाछ · 3 बटर रोटी</span><span data-lang="gu">1 પનીર શાક · 1 વેજ શાક · દાળ ફ્રાય · જીરા ભાત · પાપડ · અથાણું · 1 ગ્લાસ છાશ · 3 બટર રોટી</span></p>
     </div>
-    <div class="thali-card" style="background:linear-gradient(135deg,#2D6A4F,#1b4332)">
+    <!--<div class="thali-card" style="background:linear-gradient(135deg,#2D6A4F,#1b4332)">
       <div class="thali-name" style="color:#a8dabd">Kadi &amp; Khichdi</div>
       <div class="thali-price-badge" style="background:#a8dabd;color:#1b4332">₹80</div>
       <p class="thali-includes"><span data-lang="en">Only Dinner · A wholesome Gujarati classic</span><span data-lang="hi">केवल रात के खाने के लिए · एक पौष्टिक गुजराती क्लासिक</span><span data-lang="gu">ફક્ત ડિનર · એક પૌષ્ટિક ગુજરાતી ક્લાસિક</span></p>
-    </div>
+    </div>-->
   </div>
   <div class="notes-box">
     <h3>📋 <span data-lang="en">Important Notes</span><span data-lang="hi">महत्वपूर्ण सूचना</span><span data-lang="gu">મહત્વની નોંધ</span></h3>
